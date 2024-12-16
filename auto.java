@@ -10,7 +10,7 @@ import com.qualcomm.robotcore.util.ElapsedTime;
 
 @Autonomous(name = "A1 Auto")
 
-// tes
+// test
 
 public class Auto extends LinearOpMode {
    DcMotor FrontLeft;
